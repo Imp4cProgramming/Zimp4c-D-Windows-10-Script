@@ -21,15 +21,7 @@
 - Configurar *Windows Update*
 - Optiones de licencia y *CD-key* de Windows 10
 - Y un laaargo etc...
-
-## Instalar y utilizar el script
-
-Realmente el script no necesita instalación, simplemente accedemos a la zona de *releases* y descargamos la versión deseada. Recomiendo siempre la versión más actualizada:
-
-[Download win10script](https://github.com/aikoncwd/win10script/tree/master/releases)
-
-Descomprimimos el fichero y situamos el script en cualquier carpeta (Mis Documentos, por ejemplo). Hacemos doble click y el script se iniciará. Para utilizar el script simplemente hemos de leer las opciones del menú y escribir el número/opción deseado. Todas las opciones del script se pueden revertir desde el **menú de restauración**.
-
+- 
 ## (1) System Tweaks
 
 Permite personalizar el aspecto de tu **Windows 10**, habilitando o deshabilitando algunas características ocultas:
