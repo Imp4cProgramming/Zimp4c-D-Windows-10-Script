@@ -1,5 +1,4 @@
 # Zimp4c-D-Windows-10-Script
-![](http://i.imgur.com/WUAw09U.png)
 
 ## Información rápida
 |||
