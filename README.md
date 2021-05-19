@@ -3,8 +3,8 @@
 ## Información rápida
 |||
 |---|---|
-|**Versión**|v5.5|
-|**Fecha**|17/5/2021|
+|**Versión**|v5.6|
+|**Fecha**|18/5/2021|
 
 ## Introducción
 
